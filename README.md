@@ -8,3 +8,6 @@ Collection of the small projects one can build to improve my Javascript skill
 ### 2. Animated Expanding Cards
 #### Photo
 ![animatedcards3](https://user-images.githubusercontent.com/15803770/164799078-6b12d864-86ec-49f0-b1d9-754969be74ca.gif)
+### 2. Digital Clock Alarm
+#### Photo
+![digitalclock](https://user-images.githubusercontent.com/15803770/165001691-17e4215f-8792-4e5e-a9e3-2a1603d9b94c.png)
