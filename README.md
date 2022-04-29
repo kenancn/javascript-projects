@@ -17,3 +17,6 @@ Collection of the small projects one can build to improve my Javascript skill
 ### 5. Background Change
 #### Photo
 ![changebackground](https://user-images.githubusercontent.com/15803770/165408149-1d1b4acf-5b7f-46e9-b5cd-42aee98e599e.png)
+### 6. Background Change
+#### Photo
+![palindrome](https://user-images.githubusercontent.com/15803770/165646278-2f55f318-2bbf-4857-9c6c-e6cc2fe37a1c.png)
