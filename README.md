@@ -11,12 +11,15 @@ Collection of the small projects one can build to improve my Javascript skill
 ### 3. Digital Clock Alarm
 #### Photo
 ![digitalclock](https://user-images.githubusercontent.com/15803770/165001691-17e4215f-8792-4e5e-a9e3-2a1603d9b94c.png)
-### 4. Digital Clock Alarm
+### 4. Simple Calculator
 #### Photo
 ![simplecalculator](https://user-images.githubusercontent.com/15803770/165183016-8e884117-46f3-4fe5-baeb-a6f0bc7422a9.png)
 ### 5. Background Change
 #### Photo
 ![changebackground](https://user-images.githubusercontent.com/15803770/165408149-1d1b4acf-5b7f-46e9-b5cd-42aee98e599e.png)
-### 6. Background Change
+### 6. Palindrome Checker
 #### Photo
 ![palindrome](https://user-images.githubusercontent.com/15803770/165646278-2f55f318-2bbf-4857-9c6c-e6cc2fe37a1c.png)
+### 7. Scroll Animation
+#### Photo
+![scroolanimation4](https://user-images.githubusercontent.com/15803770/165975951-a4f404c5-bb7c-4686-9c36-0fc5f85a37e5.gif)
