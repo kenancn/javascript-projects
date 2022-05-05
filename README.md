@@ -23,3 +23,6 @@ Collection of the small projects one can build to improve my Javascript skill
 ### 7. Scroll Animation
 #### Photo
 ![scroolanimation4](https://user-images.githubusercontent.com/15803770/165975951-a4f404c5-bb7c-4686-9c36-0fc5f85a37e5.gif)
+### 8. QR Code Generator
+#### Photo
+![qrcode](https://user-images.githubusercontent.com/15803770/167027694-0fd7b7ad-3cc2-4f11-939d-3216e65e8ae8.png)
