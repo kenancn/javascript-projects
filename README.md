@@ -26,3 +26,6 @@ Collection of the small projects one can build to improve my Javascript skill
 ### 8. QR Code Generator
 #### Photo
 ![qrcode](https://user-images.githubusercontent.com/15803770/167027694-0fd7b7ad-3cc2-4f11-939d-3216e65e8ae8.png)
+### 9. Incrementing Counter
+#### Photo
+![incrementingcounter](https://user-images.githubusercontent.com/15803770/167269426-467ac164-1556-489b-934b-5b13f62118cc.gif)
