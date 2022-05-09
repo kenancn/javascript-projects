@@ -29,3 +29,9 @@ Collection of the small projects one can build to improve my Javascript skill
 ### 9. Incrementing Counter
 #### Photo
 ![incrementingcounter](https://user-images.githubusercontent.com/15803770/167269426-467ac164-1556-489b-934b-5b13f62118cc.gif)
+### 10. Event KeyCodes
+#### Photo
+![eventkeycodes](https://user-images.githubusercontent.com/15803770/167313244-efd3a65c-af00-40c1-b6ed-7856c9e0ba2a.png)
+### 11. JS Search Filter
+#### Photo
+![searchfilter](https://user-images.githubusercontent.com/15803770/167487553-c88487b2-446c-4502-9614-c26f00e8d253.gif)
