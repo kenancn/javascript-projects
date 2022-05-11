@@ -38,3 +38,6 @@ Collection of the small projects one can build to improve my Javascript skill
 ### 12. Random Choice Picker
 #### Photo
 ![randomchoicepicker](https://user-images.githubusercontent.com/15803770/167719456-43e8ce28-2613-46b5-98bd-b7118e2404ab.gif)
+### 13. Color Palette Generator
+#### Photo
+![color](https://user-images.githubusercontent.com/15803770/167945672-e8047b56-635a-4ba3-aa43-e73edb92659f.png)
