@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    font-family: 'Lato',sans-serif;
+}
+section{
+    min-height: 100vh;
+    background: url(img/background.jpg) center no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+h1{
+    margin: 0 1em;
+    color: #fff;
+    font-size: 3.5em;
+    letter-spacing: 1px;
+}
+.output{
+    border-right: 1px #fff solid;
+}
