@@ -47,3 +47,6 @@ Collection of the small projects one can build to improve my Javascript skill
 ### 15. Typewriter with color changing
 #### Photo
 ![typewriter6](https://user-images.githubusercontent.com/15803770/168492987-1d23e537-9c76-4d49-9cfe-87ada3d1a84d.gif)
+### 16. Tag Input Field
+#### Photo
+![taginputfield](https://user-images.githubusercontent.com/15803770/168666029-ba95fb05-596c-4cf3-80fe-84c364af73fd.gif)
