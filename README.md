@@ -50,3 +50,6 @@ Collection of the small projects one can build to improve my Javascript skill
 ### 16. Tag Input Field
 #### Photo
 ![taginputfield](https://user-images.githubusercontent.com/15803770/168666029-ba95fb05-596c-4cf3-80fe-84c364af73fd.gif)
+### 17. Todo List Saving to Local Storage
+#### Photo
+![todolist](https://user-images.githubusercontent.com/15803770/169278008-6828f9ea-815a-4bb0-87b3-2e6eccd2e694.png)
