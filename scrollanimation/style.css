@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
-
 * {
     box-sizing: border-box;
 }
-
 body {
     background-color: #efedd6;
     font-family: 'Roboto', sans-serif;
@@ -14,11 +12,9 @@ body {
     margin: 0;
     overflow-x: hidden;
 }
-
 h1 {
     margin: 10px;
 }
-
 .box {
     background-color: steelblue;
     color: #fff;
@@ -33,16 +29,12 @@ h1 {
     transform: translateX(200%);
     transition: transform 0.4s ease;
 }
-
 .box:nth-of-type(even) {
     transform: translateX(-200%);
-    
 }
-
 .box.show {
     transform: translateX(0);
 }
-
 .box h2{
     font-size: 45px;   
 }

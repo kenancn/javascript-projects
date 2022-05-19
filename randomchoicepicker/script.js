@@ -22,8 +22,11 @@ function createTags(input) {
 
     tags.forEach(tag => {
         const tagEl = document.createElement('span')
+
         tagEl.classList.add('tag')
+
         tagEl.innerText = tag
+
         tagsEl.appendChild(tagEl)
     })
 }
@@ -38,6 +41,7 @@ function randomSelect() {
 
         setTimeout(() => {
             unhighlightTag(randomTag)
+            
         }, 100)
     }, 100);
 
@@ -55,6 +59,7 @@ function randomSelect() {
 
 function pickRandomTag() {
     const tags = document.querySelectorAll('.tag')
+    
     return tags[Math.floor(Math.random() * tags.length)]
 }
 

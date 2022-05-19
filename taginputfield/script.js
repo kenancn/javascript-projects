@@ -18,10 +18,10 @@ function outputTag() {
 
     input.value = "";
 }
-
+//Add a submit event to the form
 tagForm.addEventListener('submit', e => {
 
-    if (input.value === "") { //Prevent dfefaul submit behavior
+    if (input.value === "") { //Prevent default submit behavior
 
         e.preventDefault();
 

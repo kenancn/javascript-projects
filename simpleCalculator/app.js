@@ -7,11 +7,13 @@ buttons.map(button => {
         switch (e.target.innerText) {
             case 'C':
                 display.innerText = '';
+                
                 break;
             case '←':
                 if(display.innerText){
                 display.innerText= display.innerText.slice(0,-1)
                 }
+
                 break;
 
             case '=':
@@ -21,8 +23,10 @@ buttons.map(button => {
                 catch{
                     display.innerText= 'Error!';
                 }
+
                 break;
             default:
+                
                 display.innerText += e.target.innerText;
         }
 

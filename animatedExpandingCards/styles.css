@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@700&display=swap');
-
 * {
     box-sizing: border-box;
 }
-
 body {
     font-family: 'Inter' sans-serif;
     display: flex;
@@ -14,7 +12,6 @@ body {
     overflow: hidden;
 
 }
-
 .container {
     display: flex;
     width: 90vw;
@@ -31,7 +28,6 @@ body {
     position: relative;
     transition: flex 0.7s ease-in;
 }
-
 .panel h3{
     font-size: 24px;
     position: absolute;
@@ -40,11 +36,9 @@ body {
     margin: 0px;
     opacity: 0;
 }
-
 .panel.active{
     flex:5;
 }
-
 .panel.active h3{
     text-decoration: underline;
     opacity: 1;
@@ -60,8 +54,6 @@ body {
         display: none;
     }
 }
-
-
 .main{
     width:500px;
     font-family: 'Inter' sans-serif;
@@ -71,5 +63,4 @@ body {
     text-align: center;
     margin: 0 auto;
     top: 5px;
-    
 }

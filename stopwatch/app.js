@@ -1,5 +1,6 @@
 const minute = document.getElementById("minute");
 const second = document.getElementById("second");
+
 //selected inputs
 const selectedMn = document.getElementById("selected-mn");
 const selectedSc = document.getElementById("selected-sc");
@@ -22,10 +23,15 @@ startButton.addEventListener("click", startTimer);
 
 resetButton.addEventListener("click", () => {
     clearInterval(intervalid);
+
     intervalid = null;
+
     selectedMn.value = "00";
+
     selectedSc.value = "00";
+
     minute.textContent = "00";
+
     second.textContent = "00";
 
 
@@ -33,7 +39,9 @@ resetButton.addEventListener("click", () => {
 
 function startTimer() {
     let mn = minute.textContent;
+
     let sc = second.textContent;
+
     if ((mn == 00 && sc == 00 || (mn == 0 && sc == 0))){
         window.alert("Time's up!");
     }
@@ -41,17 +49,24 @@ function startTimer() {
         intervalid = setInterval(() => {
             sc--;
             sc = sc < 10 ? "0" + sc : sc;
+
             if (sc == "0-1") {
                 mn--;
                 sc = 59;
             }
+
             if (mn == 00 && sc == 00 || (mn == 0 && sc == 0)) {
                 clearInterval(intervalid);
+
                 window.alert("Time's up!");
+
                 selectedMn.value = "00";
+
                 selectedSc.value = "00";
             }
+            
             minute.textContent = mn;
+            
             second.textContent = sc;
 
         }, 1000);

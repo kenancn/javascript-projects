@@ -6,15 +6,20 @@ let max = 280;
 
 const updateLimit = () => {
     limit.textContent = max;
+
     input.addEventListener("input", () => {
         let inputLength = input.value.length;
+
         limit.textContent = max - inputLength;
+
         if (inputLength > max){
             btn.disabled = true;
+
             limit.style.color = "red";
         }
         else{
             btn.disabled = false;
+
             limit.style.color = "black";
         }
     });
@@ -24,6 +29,7 @@ updateLimit();
 
 btn.addEventListener("click", (e) => {
     e.preventDefault();
+    
     tweet();
 })
 
