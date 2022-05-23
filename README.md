@@ -53,6 +53,9 @@ Collection of the small projects one can build to improve my Javascript skill
 ### 17. Todo List Saving to Local Storage
 #### Photo
 ![todolist](https://user-images.githubusercontent.com/15803770/169278008-6828f9ea-815a-4bb0-87b3-2e6eccd2e694.png)
-### 17. Notes App Saving to Local Storage
+### 18. Notes App Saving to Local Storage
 #### Photo
 ![notesapp](https://user-images.githubusercontent.com/15803770/169697750-1e26caeb-57a0-4806-b256-8a5244cec271.png)
+### 19. Hoverboard
+#### Photo
+![hoverborad2](https://user-images.githubusercontent.com/15803770/169901546-cba1b589-ea3c-4290-8ae5-12b3b3426689.gif)
