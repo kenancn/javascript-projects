@@ -59,3 +59,6 @@ Collection of the small projects one can build to improve my Javascript skill
 ### 19. Hoverboard
 #### Photo
 ![hoverborad2](https://user-images.githubusercontent.com/15803770/169901546-cba1b589-ea3c-4290-8ae5-12b3b3426689.gif)
+### 20. Password Generator
+#### Photo
+![passwordgenerator2](https://user-images.githubusercontent.com/15803770/170122462-9b61fde5-21d3-4d4f-9a1c-a023e7137853.gif)
