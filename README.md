@@ -1,7 +1,32 @@
 # javascript-projects
 Collection of the small projects one can build to improve my Javascript skill
 
-## Projects 📝
+## Projects  📝
+| Project | Description  |
+| --- | --- |
+| 1 | Stopwatch |
+| 2 | Animated Expanding Cards |
+| 3 | Digital Clock Alarm |
+| 4 | Simple Calculator |
+| 5 | Background Change |
+| 6 | Palindrome Checker |
+| 7 | Scroll Animation |
+| 8 | QR Code Generator |
+| 9 | Incrementing Counter |
+| 10 | Event KeyCodes |
+| 11 | JS Search Filter |
+| 12 | Random Choice Picker |
+| 13 | Color Palette Generator |
+| 14 | Share Tweet Limit |
+| 15 | Typewriter with color changing |
+| 16 | Tag Input Field |
+| 17 | Todo List Saving to Local Storage |
+| 18 | Notes App Saving to Local Storage |
+| 19 | Hoverboard |
+| 20 | Password Generator |
+
+ 
+
 ### 1. Stopwatch
 #### Photo
 ![stopwatch](https://user-images.githubusercontent.com/15803770/164339782-7bceb6ad-4c80-4313-b54d-ca2fc6c9bb64.png)
